@@ -57,6 +57,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        accessibility: {
+          blue: "hsl(var(--accessibility-blue))",
+          green: "hsl(var(--accessibility-green))",
+          gray: "hsl(var(--accessibility-gray))",
+        },
+        tips: {
+          background: "hsl(var(--tips-background))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
